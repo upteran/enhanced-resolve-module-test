@@ -1,0 +1,15 @@
+{
+  "name": "enhanced-resolve-module-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@watchable/store-react": "^0.9.0-alpha.2",
+    "enhanced-resolve": "^5.13.0"
+  }
+}
